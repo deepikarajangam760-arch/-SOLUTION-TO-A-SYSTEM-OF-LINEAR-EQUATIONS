@@ -15,6 +15,12 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 
+#Program to find the solution for the given linear equations.
+
+#Developed by:  R DEEPIKA
+
+#RegisterNumber: 212225230046
+
 import numpy as np
 
 A=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
@@ -27,7 +33,8 @@ print(x)
 
 ## Output:
 
-<img width="1723" height="575" alt="image" src="https://github.com/user-attachments/assets/0101967a-36ca-42b8-a03e-a48aa56392bd" />
+<img width="1302" height="852" alt="Screenshot 2026-02-05 153302" src="https://github.com/user-attachments/assets/b1683462-1db8-461d-9cc9-f1e6ed307d1b" />
+
 
 
 ## Result: 
